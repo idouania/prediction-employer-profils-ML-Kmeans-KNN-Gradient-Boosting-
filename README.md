@@ -1,8 +1,8 @@
 # prediction_employer_dataset_ML_KNN
-Contexte de l’analyse
+#Contexte de l’analyse
 Elu métier le plus sexy par la Harvard Business Review en octobre 2012, le data scientist représente un profil rare qui exige de nombreuses compétences.
 
-A partir d'un dataset Aquila, vous réaliserez :
+#Objectifs:
 
 un clustering non supervisé afin d'identifier 2 groupes de profils techniques distinctes
 une prédiction des profils dont le métier n'est pas labellisé
