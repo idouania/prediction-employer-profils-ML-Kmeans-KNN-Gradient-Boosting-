@@ -4,7 +4,7 @@
 **Objectifs:**
 
 un clustering non supervisé afin d'identifier 2 groupes de profils techniques distinctes
-une prédiction des profils dont le métier n'est pas labellisé
+une prédiction des profils dont le métier n'est pas labellisé  
 **Données**
 data.csv contient 6 variables : 
 - 'Entreprise' correspond à une liste d'entreprises fictive 
