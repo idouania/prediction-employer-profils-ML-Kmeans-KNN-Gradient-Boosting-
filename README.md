@@ -1,5 +1,4 @@
-# prediction_employer_dataset_ML_KNN
-
+# prediction employer profil's (ML, Kmeans, KNN, Gradient Boosting) 
 
 **Objectifs:**
 - un clustering non supervisé afin d'identifier 2 groupes de profils techniques distinctes
